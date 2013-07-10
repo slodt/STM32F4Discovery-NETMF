@@ -55,7 +55,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\kodfilemon\STM32F4Discovery_Demo\Common\Common.csproj">
+    <ProjectReference Include="..\Common\Common.csproj">
       <Project>{A558FE40-1F9A-4C07-A8E7-C7C2DA3BB294}</Project>
       <Name>Common</Name>
     </ProjectReference>
